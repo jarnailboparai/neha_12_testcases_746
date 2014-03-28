@@ -29,6 +29,7 @@ body {
 	float:left;
 	font-weight:normal;
 	color:#fff;
+	width:100px;
 	font-family:Open Sans Semibold,sans-serif;
 }
 .app_feature_list label{
